@@ -1,0 +1,1 @@
+<h2>Edita tu perfil de candidato</h2>

@@ -1,0 +1,1 @@
+<nav><a href='dashboard.php'>Inicio</a> | <a href='buscar_ofertas.php'>Buscar Ofertas</a> | <a href='mis_aplicaciones.php'>Mis Aplicaciones</a> | <a href='logout.php'>Cerrar sesión</a></nav>
